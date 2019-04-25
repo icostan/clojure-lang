@@ -1,0 +1,7 @@
+#+TITLE Clojure .org file
+
+* Clojure
+** Testing
+*** CI
+**** auto compile and run tests on save
+
